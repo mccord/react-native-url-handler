@@ -210,7 +210,7 @@
 		789788F31AF23588009CD9D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				HEADER_SEARCH_PATHS = "/Users/jon/code/jon/AwesomeProject/node_modules/react-native/React/**";
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../react-native/React/**";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -220,7 +220,7 @@
 		789788F41AF23588009CD9D5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-			        HEADER_SEARCH_PATHS = "/Users/jon/code/jon/AwesomeProject/node_modules/react-native/React/**";
+			        HEADER_SEARCH_PATHS = "$(SRCROOT)/../../react-native/React/**";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
